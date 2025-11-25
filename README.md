@@ -1,2 +1,6 @@
 # student management system
-his is a simple console-based Library Management System using Python. It allows users to add books, issue books, return books, and display available books. It uses a class (Library) to manage data, a dictionary to store books with their status (available/issued), and a set to track issued books. 
+This program is a Student Management System that stores student names and their marks.  
+It allows adding new students and saving their details to a file.  
+It can find the student with the highest marks (topper).  
+It calculates the average marks of all students.  
+The data is loaded from and saved to a file for persistence.
